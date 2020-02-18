@@ -57,15 +57,15 @@
     { 
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRSs",
-      "name":"Alchemical Hydra2",
-      "description":"Show what to pray against hydra2",
+      "name":"Alchemical Hydra3",
+      "description":"Show what to pray against hydra3",
       "id":"alchemicalhydra-plugin",
       "releases":[ 
          { 
             "date":"2020-02-08",
-            "sha512sum":"8b4c99edbad5e7dac96a08ac69dd7b5b6832fec69ec624970b8295255e2f4cbf7439de5bb0214b7bbebf9d9e02f6ea3507fb42e03e3d6f0ed2b0592d0f434ae5",
+            "sha512sum":"45131511b52eae791382ff5b7a57546720b582d4e36d0fbcf7fab983571c85c500e556b5be46acf280ec50f53662af153ee89013cda8fffbef611a825a6f6d5b",
             "version":"0.0.2",
-            "url":"https://github.com/hampstar/hydra/blob/master/alchemicalhydra-0.0.5.jar",
+            "url":"https://github.com/hampstar/hydra/blob/master/hydra.jar",
             "requires":"0.0.1"
          }
       ]
